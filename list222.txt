@@ -1,0 +1,5 @@
+mod 777 execShell_public.sh
+chmod 777 execShell_public_WT.sh
+chmod 777 execShell_rollback.sh
+chmod 777 execShell_rollback_WT.sh
+
